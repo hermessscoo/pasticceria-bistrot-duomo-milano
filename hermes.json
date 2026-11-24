@@ -1,0 +1,201 @@
+{
+ "version": 11,
+ "raw": {
+  "repo_name": "pasticceria-bistrot-duomo-milano",
+  "brand": {
+   "name": "Pasticceria & Bistrot Duomo Milano",
+   "tagline": "Dolci tradizione nel cuore di Milano",
+   "sector_en": "pastry cafe bakery",
+   "mission": "Portiamo la tradizione dolciaria milanese in un ambiente accogliente dove ogni morso è un ricordo. Uniamo ingredienti di alta qualità a un servizio attento per creare esperienze gustative indimenticabili.",
+   "keywords": [
+    "artigianale",
+    "accogliente",
+    "elegante",
+    "gustoso",
+    "autentico"
+   ],
+   "palette": {
+    "bg": "#f4efe7",
+    "fg": "#1f1d1a",
+    "accent": "#a4532f",
+    "muted": "#6f675c",
+    "surface": "#e9e1d4"
+   },
+   "font_display": "Fraunces",
+   "font_body": "Manrope",
+   "art_direction": "soft natural light, warm tones, shallow depth of field"
+  },
+  "seo": {
+   "description": "Pasticceria & Bistrot Duomo Milano offre dolci artigianali, brunch e caffè di qualità nel centro di Milano, in un ambiente elegante e accogliente."
+  },
+  "nav_cta": {
+   "label": "Prenota un tavolo",
+   "href": "#contatti"
+  },
+  "contact": {
+   "email": "",
+   "phone": "",
+   "address": "",
+   "hours": ""
+  },
+  "sections": [
+   {
+    "role": "attenzione",
+    "type": "hero_shader",
+    "eyebrow": "Benvenuti",
+    "title": "*Dolci* che raccontano Milano",
+    "subtitle": "Tradizione e innovazione in ogni fetta",
+    "cta": {
+     "label": "Scopri il menù",
+     "href": "#contatti"
+    }
+   },
+   {
+    "role": "problema",
+    "type": "text_reveal",
+    "kicker": "Il desiderio di un momento dolce",
+    "text": "Molti cercano un luogo dove gustare un dolce autentico, ma spesso si imbattono in catene senza carattere e sapori artificiali. Vuoi un’esperienza che unisca qualità, tradizione e un ambiente raffinato?"
+   },
+   {
+    "role": "soluzione",
+    "type": "split",
+    "kicker": "La nostra risposta",
+    "title": "*Esperienza* completa",
+    "text": "Dalla colazione al brunch, dal caffè al dolce su misura, ogni proposta è preparata con ingredienti selezionati e passione artigianale.",
+    "bullets": [
+     "Ingredienti locali e stagionali",
+     "Ricette tramandate da generazioni",
+     "Ambiente luminoso vicino al Duomo"
+    ],
+    "image": "artisan pastries on a wooden table, soft natural light, warm shadows",
+    "reverse": false
+   },
+   {
+    "role": "offerta",
+    "type": "offer",
+    "kicker": "Il nostro pacchetto",
+    "title": "*Menu* degustazione",
+    "text": "Un percorso di sapori con selezione di dolci, caffè e brunch, ideale per gruppi e occasioni speciali.",
+    "points": [
+     "Assortimento di 5 dolci tipici",
+     "Caffè specialty",
+     "Brunch domenicale",
+     "Servizio tavolo dedicato"
+    ],
+    "price": "su preventivo",
+    "note": "Prezzo personalizzato in base al numero di partecipanti",
+    "cta": {
+     "label": "Richiedi un preventivo",
+     "href": "#contatti"
+    }
+   },
+   {
+    "role": "usp",
+    "type": "stats",
+    "kicker": "Perché sceglierci",
+    "title": "*Qualità* garantita",
+    "items": [
+     {
+      "value": 100,
+      "prefix": "",
+      "suffix": "%",
+      "label": "Ingredienti locali"
+     },
+     {
+      "value": 95,
+      "prefix": "",
+      "suffix": "%",
+      "label": "Clienti soddisfatti"
+     },
+     {
+      "value": 10,
+      "prefix": "",
+      "suffix": "+",
+      "label": "Anni di tradizione"
+     }
+    ]
+   },
+   {
+    "role": "prova",
+    "type": "stats",
+    "kicker": "La nostra reputazione",
+    "title": "*Feedback* reale",
+    "items": [
+     {
+      "value": 5,
+      "prefix": "",
+      "suffix": "★",
+      "label": "Media recensioni"
+     },
+     {
+      "value": 200,
+      "prefix": "",
+      "suffix": "+",
+      "label": "Recensioni online"
+     }
+    ]
+   },
+   {
+    "role": "cta",
+    "type": "cta",
+    "title": "*Prenota* ora il tuo tavolo",
+    "text": "Assicurati un posto nel cuore di Milano e vivi un’esperienza dolciaria unica.",
+    "cta": {
+     "label": "Prenota subito",
+     "href": "#contatti"
+    }
+   },
+   {
+    "role": "faq",
+    "type": "faq",
+    "kicker": "Domande frequenti",
+    "title": "*Info* utili",
+    "items": [
+     {
+      "q": "Quali sono gli orari di apertura?",
+      "a": "Dal lunedì al sabato, dalle 08:00 alle 20:00."
+     },
+     {
+      "q": "Accettate prenotazioni per gruppi?",
+      "a": "Sì, consigliamo di prenotare con almeno 48 ore di anticipo per gruppi superiori a 6 persone."
+     },
+     {
+      "q": "Offrite opzioni senza glutine o vegane?",
+      "a": "Sì, disponiamo di dolci e brunch senza glutine e vegani su richiesta."
+     },
+     {
+      "q": "È possibile organizzare eventi privati?",
+      "a": "Il bistrot è disponibile per feste private, compleanni e meeting aziendali."
+     }
+    ]
+   }
+  ],
+  "experience": {
+   "mode": "cinema",
+   "preset": "neon",
+   "material": "gloss",
+   "model_prompt": "",
+   "intro": "letters",
+   "chapters": [
+    "GUSTO",
+    "TRADIZIONE",
+    "ELEGANZA"
+   ],
+   "index": false
+  },
+  "todo": [
+   "Fornire immagini ad alta risoluzione per hero, gallery e sezioni",
+   "Inserire indirizzo completo, email e telefono",
+   "Confermare orari di apertura esatti",
+   "Fornire recensioni reali per la sezione proof",
+   "Fornire menu dettagliato con categorie e piatti"
+  ]
+ },
+ "logo": null,
+ "favicon": null,
+ "model": null,
+ "video": null,
+ "images": {
+  "1c9ebabfb3e3": "assets/img/1c9ebabfb3e3.webp"
+ }
+}
